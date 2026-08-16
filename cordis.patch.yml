@@ -1,0 +1,9 @@
+# dsh-china-facts — single-purpose DSH plugin by the ainetcafe.com team.
+# One mcp-client row; tools register as mcp__netcafe_cn__<name>.
+- insert:
+    - id: mcp-dsh-china-facts
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: netcafe-cn
+        transport: streamable-http
+        url: https://ainetcafe.com/mcp/cn?s=dsh-cn

@@ -1,0 +1,2 @@
+{ "name": "dsh-china-facts", "version": "0.1.0", "description": "China facts your agent can trust: reachability tested from a real mainland backbone, statutory holidays incl. make-up workdays (调休), offline ID/phone validation, lunar calendar.",
+  "peerDependencies": { "@deepseek-ai/dsh-mcp-client": "*" }, "license": "MIT" }
